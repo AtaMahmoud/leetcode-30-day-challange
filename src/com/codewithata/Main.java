@@ -1,8 +1,11 @@
 package com.codewithata;
 
+import com.codewithata.weekone.HappyNumber;
+
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+        HappyNumber happyNumber=new HappyNumber();
+        System.out.println(happyNumber.isHappy(-19));;
     }
 }
