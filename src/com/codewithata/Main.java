@@ -1,11 +1,13 @@
 package com.codewithata;
 
-import com.codewithata.weekone.HappyNumber;
+import com.codewithata.weekone.MaximumSubarray;
 
 public class Main {
 
     public static void main(String[] args) {
-        HappyNumber happyNumber=new HappyNumber();
-        System.out.println(happyNumber.isHappy(-19));;
+        int []arr={-2,1,-3,4,-1,2,1,-5,4};
+        MaximumSubarray maximumSubarray=new MaximumSubarray();
+        System.out.println(maximumSubarray.maxSubArray(arr));
+
     }
 }
