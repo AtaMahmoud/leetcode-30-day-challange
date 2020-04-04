@@ -1,13 +1,14 @@
 package com.codewithata;
 
 import com.codewithata.weekone.MaximumSubarray;
+import com.codewithata.weekone.MoveZeroes;
 
 public class Main {
 
     public static void main(String[] args) {
-        int []arr={-2,1,-3,4,-1,2,1,-5,4};
-        MaximumSubarray maximumSubarray=new MaximumSubarray();
-        System.out.println(maximumSubarray.maxSubArray(arr));
+        int []arr={0,1,0,3,12};
+        MoveZeroes moveZeroes=new MoveZeroes();
+        moveZeroes.moveZeroes2(arr);
 
     }
 }
