@@ -6,9 +6,9 @@ import com.codewithata.weekone.MoveZeroes;
 public class Main {
 
     public static void main(String[] args) {
-        int []arr={0,1,0,3,12};
+        int []arr={0,0,1,1,1,2,2,3,3,4};
         MoveZeroes moveZeroes=new MoveZeroes();
-        moveZeroes.moveZeroes2(arr);
+        System.out.println(moveZeroes.removeDuplicates(arr));
 
     }
 }
