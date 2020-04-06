@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4e4585e1-a74d-402c-b46a-eea45658f61c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/codewithata/weekone/GroupAnagrams.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode-30-day-challange/com/codewithata/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode-30-day-challange/com/codewithata/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode-30-day-challange/com/codewithata/weekone/MoveZeroes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode-30-day-challange/com/codewithata/weekone/MoveZeroes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/codewithata/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codewithata/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/codewithata/weekone/MoveZeroes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codewithata/weekone/MoveZeroes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codewithata/weekone/BestTimeToBuyAndSellStock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codewithata/weekone/BestTimeToBuyAndSellStock.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,7 +118,8 @@
       <workItem from="1585825496070" duration="3614000" />
       <workItem from="1585899562087" duration="3403000" />
       <workItem from="1585991262918" duration="9734000" />
-      <workItem from="1586084725404" duration="645000" />
+      <workItem from="1586084725404" duration="2083000" />
+      <workItem from="1586182235190" duration="2438000" />
     </task>
     <servers />
   </component>
@@ -208,9 +207,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="163" y="0" key="SettingsEditor/0.0.1366.728/1366.0.1536.824@0.0.1366.728" timestamp="1585826062197" />
-    <state x="391" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1586084745929">
+    <state x="391" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1586182268037">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="391" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1536.824@0.0.1366.728" timestamp="1586084745929" />
+    <state x="391" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586182268037" />
   </component>
 </project>
