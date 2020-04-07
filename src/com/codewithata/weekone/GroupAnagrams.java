@@ -14,7 +14,7 @@ public class GroupAnagrams {
             if(!anagramsGroups.containsKey(key))anagramsGroups.put(key,new ArrayList());
             anagramsGroups.get(key).add(str);
         }
-        return  new ArrayList<>(anagramsGroups.values());
+        return  new ArrayList(anagramsGroups.values());
     }
 
     public boolean isAnagram(String s, String t) {
