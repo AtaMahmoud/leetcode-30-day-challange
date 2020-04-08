@@ -19,9 +19,9 @@ public class MiddleOfLinkedList {
             second=second.next;
         }
 
-        if(second.next==null)
-            return first;
+        if(first.next==null)
+            return second;
         else
-            return first.next;
+            return second.next;
     }
 }
