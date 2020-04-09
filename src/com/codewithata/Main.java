@@ -1,12 +1,12 @@
 package com.codewithata;
 
-import com.codewithata.weekone.CountingElements;
+import com.codewithata.weektwo.BackspaceStringCompare;
 
 public class Main {
 
     public static void main(String[] args) {
-        int []arr={0,0,1,1,1,2,2,3,3,4};
-        CountingElements countingElements=new CountingElements();
-        System.out.println(countingElements.countElements(arr));
+        BackspaceStringCompare backspaceStringCompare=new BackspaceStringCompare();
+        System.out.println(backspaceStringCompare.backspaceCompareWithStacks("y#fo##f"
+                ,"y#f#o##f"));
     }
 }
