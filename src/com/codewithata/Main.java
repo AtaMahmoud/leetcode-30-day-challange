@@ -1,14 +1,15 @@
 package com.codewithata;
 
 import com.codewithata.weektwo.ContiguousArray;
+import com.codewithata.weektwo.PerformStringShifts;
 
 
 public class Main {
 
     public static void main(String[] args) {
-        int [] nums={1,0,1};
-        ContiguousArray contiguousArray=new ContiguousArray();
-        System.out.println(contiguousArray.findMaxLength(nums));;
+        int[][] shifts={{0,1},{1,2}};
+        PerformStringShifts performStringShifts=new PerformStringShifts();
+        System.out.println(performStringShifts.stringShift("abc",shifts));;
 
     }
 }
