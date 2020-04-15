@@ -2,14 +2,16 @@ package com.codewithata;
 
 import com.codewithata.weektwo.ContiguousArray;
 import com.codewithata.weektwo.PerformStringShifts;
+import com.codewithata.weektwo.ProductOfArrayExceptSelf;
 
 
 public class Main {
 
     public static void main(String[] args) {
-        int[][] shifts={{0,1},{1,2}};
-        PerformStringShifts performStringShifts=new PerformStringShifts();
-        System.out.println(performStringShifts.stringShift("abc",shifts));;
+        int [] shifts={1,2,3,4};
+        ProductOfArrayExceptSelf productOfArrayExceptSelf=new ProductOfArrayExceptSelf();
+        productOfArrayExceptSelf.productExceptSelf(shifts);
+
 
     }
 }

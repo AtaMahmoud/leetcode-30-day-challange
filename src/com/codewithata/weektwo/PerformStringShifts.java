@@ -11,7 +11,7 @@ public class PerformStringShifts {
         }
         boolean shouldRotateLeft = (numberOfShifts < 0);
         numberOfShifts=Math.abs(numberOfShifts);
-        numberOfShifts%=numberOfShifts;
+        numberOfShifts%=s.length();
 
         if(shouldRotateLeft)
             s=rotateLeft(s,numberOfShifts);
