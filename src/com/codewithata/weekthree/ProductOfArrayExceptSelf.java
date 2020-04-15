@@ -1,4 +1,4 @@
-package com.codewithata.weektwo;
+package com.codewithata.weekthree;
 
 public class ProductOfArrayExceptSelf {
     public int[] productExceptSelf(int[] nums) {

@@ -1,8 +1,6 @@
 package com.codewithata;
 
-import com.codewithata.weektwo.ContiguousArray;
-import com.codewithata.weektwo.PerformStringShifts;
-import com.codewithata.weektwo.ProductOfArrayExceptSelf;
+import com.codewithata.weekthree.ProductOfArrayExceptSelf;
 
 
 public class Main {
