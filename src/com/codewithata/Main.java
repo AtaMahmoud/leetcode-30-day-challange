@@ -1,15 +1,11 @@
 package com.codewithata;
-
-import com.codewithata.weekthree.ProductOfArrayExceptSelf;
-import com.codewithata.weekthree.ValidParenthesisString;
-
-import java.util.stream.IntStream;
-
+import com.codewithata.weekthree.MinimumPathSum;
 
 public class Main {
 
     public static void main(String[] args) {
-        ValidParenthesisString validParenthesisString=new ValidParenthesisString();
-        System.out.println(validParenthesisString.checkValidString("(*())(*)"));;
+        int [] [] gird={{1,3,1},{5,2,1},{4,2,1}};
+        MinimumPathSum minimumPathSum=new MinimumPathSum();
+        System.out.println(minimumPathSum.minPathSum(gird));;
     }
 }

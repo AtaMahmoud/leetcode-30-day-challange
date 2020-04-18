@@ -1,6 +1,7 @@
 package com.codewithata.weekthree;
 
 public class NumberOfIsland {
+    //Time : O(M*N) Space O(1)
     public int numIslands(char[][] grid) {
         int count = 0;
         for (int i = 0; i < grid.length; i++) {
