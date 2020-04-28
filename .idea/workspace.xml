@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4e4585e1-a74d-402c-b46a-eea45658f61c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/codewithata/weekfour/LongestCommonSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codewithata/weekfour/MaximalSquare.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -146,7 +146,8 @@
       <workItem from="1587683857072" duration="802000" />
       <workItem from="1587784832093" duration="660000" />
       <workItem from="1587871642273" duration="600000" />
-      <workItem from="1587957067287" duration="292000" />
+      <workItem from="1587957067287" duration="820000" />
+      <workItem from="1588044201187" duration="262000" />
     </task>
     <servers />
   </component>
@@ -247,10 +248,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="163" y="0" key="SettingsEditor/0.0.1366.728/1366.0.1536.824@0.0.1366.728" timestamp="1585826062197" />
-    <state x="391" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1587957069412">
+    <state x="391" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1588044351503">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="391" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1536.824@0.0.1366.728" timestamp="1587957069412" />
+    <state x="391" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1536.824@0.0.1366.728" timestamp="1588044351503" />
     <state x="391" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586786136173" />
     <state x="65" y="0" key="new project wizard" timestamp="1587215394178">
       <screen x="0" y="0" width="1366" height="728" />
